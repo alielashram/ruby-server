@@ -32,4 +32,8 @@ Simple server built in Ruby to serve files from a directory over HTTP.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+## License
+
+MIT: http://aliel.mit-license.org/
+
 
